@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/preview.svg" alt="arfanshaik preview" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/features.svg" alt="arfanshaik features" width="100%" />
+</p>
+
 <div align="center">
 
 # ⚡ SHAIK ARFAN
