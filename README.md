@@ -5,16 +5,16 @@
 <tr>
 <td height="1" valign="top">
 <table height="100%"><tr><td nowrap valign="top">
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br><sub>&emsp;&emsp;&emsp;</sub>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br><sub>&emsp;</sub>
 </td></tr></table>
 </td>
 <td valign="top">
@@ -109,16 +109,16 @@ I build developer tools for inspecting APIs, testing regular expressions, and tr
 </td>
 <td height="1" valign="top">
 <table height="100%"><tr><td nowrap valign="top">
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br><sub>&emsp;&emsp;&emsp;</sub>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br><sub>&emsp;</sub>
 </td></tr></table>
 </td>
 </tr>
