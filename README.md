@@ -37,15 +37,15 @@ I build developer tools for inspecting APIs, testing regular expressions, and tr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arfanshaik&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3131&icon_color=FF3131" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=arfanshaik&show_icons=true&theme=radical&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=FF263D&icon_color=FF263D&ring_color=FF263D" alt="GitHub stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfanshaik&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3131" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfanshaik&layout=compact&theme=radical&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=FF263D" alt="Top languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=arfanshaik&theme=dark&hide_border=true&background=0D1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=arfanshaik&theme=dark&hide_border=true&background=000000&ring=FF263D&fire=FF263D&currStreakLabel=FF435A&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=EEEEEE" alt="GitHub streak" />
 
 </div>
 
@@ -61,7 +61,7 @@ I build developer tools for inspecting APIs, testing regular expressions, and tr
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arfanshaik&bg_color=0d1117&color=ffffff&line=ff3131&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arfanshaik&bg_color=000000&color=ffffff&line=ff263d&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
 
 </div>
 

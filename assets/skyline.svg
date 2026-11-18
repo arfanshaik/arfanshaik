@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 305" role="img" aria-labelledby="title desc">
 <title id="title">3D contribution graph</title><desc id="desc">One block per day. Weeks run left to right.</desc>
-<rect width="1000" height="305" rx="16" fill="#111014"/>
+<rect width="1000" height="305" rx="16" fill="#000000"/>
 <style>@keyframes light{0%,100%{opacity:0}45%{opacity:.55}}.glint{opacity:0;animation:light 6s ease-in-out infinite}@media(prefers-reduced-motion:reduce){.glint{animation:none}}</style>
-<text x="34" y="35" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#f1e9e9">CONTRIBUTION SKYLINE</text>
-<text x="966" y="35" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#ff8581">Peak day  /  126 contributions</text>
+<text x="34" y="35" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#ffffff">CONTRIBUTION SKYLINE</text>
+<text x="966" y="35" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#ff435a">Peak day  /  126 contributions</text>
 <g><title>2025-11-16: 0</title>
 <polygon points="92.00,137.00 105.59,137.72 105.59,139.72 92.00,139.00" fill="#1c1b20"/>
 <polygon points="105.59,137.72 113.59,130.72 113.59,132.72 105.59,139.72" fill="#26232a"/>
@@ -173,7 +173,7 @@
 <polygon points="590.30,157.43 603.89,158.15 603.89,166.12 590.30,165.40" fill="#71313d"/>
 <polygon points="603.89,158.15 611.89,151.15 611.89,159.12 603.89,166.12" fill="#a03c4c"/>
 <polygon points="598.30,150.43 611.89,151.15 603.89,158.15 590.30,157.43" fill="#703142"/>
-<g class="glint" style="animation-delay:2.49s"><polygon points="598.30,150.43 611.89,151.15 603.89,158.15 590.30,157.43" fill="#ffcec3"/></g>
+<g class="glint" style="animation-delay:2.49s"><polygon points="598.30,150.43 611.89,151.15 603.89,158.15 590.30,157.43" fill="#ffe4e8"/></g>
 </g>
 <g><title>2026-07-12: 0</title>
 <polygon points="605.40,164.20 618.99,164.92 618.99,166.92 605.40,166.20" fill="#1c1b20"/>
@@ -229,7 +229,7 @@
 <polygon points="756.40,160.26 769.99,160.98 769.99,174.92 756.40,174.20" fill="#71313d"/>
 <polygon points="769.99,160.98 777.99,153.98 777.99,167.92 769.99,174.92" fill="#a03c4c"/>
 <polygon points="764.40,153.26 777.99,153.98 769.99,160.98 756.40,160.26" fill="#703142"/>
-<g class="glint" style="animation-delay:3.32s"><polygon points="764.40,153.26 777.99,153.98 769.99,160.98 756.40,160.26" fill="#ffcec3"/></g>
+<g class="glint" style="animation-delay:3.32s"><polygon points="764.40,153.26 777.99,153.98 769.99,160.98 756.40,160.26" fill="#ffe4e8"/></g>
 </g>
 <g><title>2026-09-27: 0</title>
 <polygon points="771.50,173.00 785.09,173.72 785.09,175.72 771.50,175.00" fill="#1c1b20"/>
@@ -484,8 +484,8 @@
 <g><title>2026-09-07: 18</title>
 <polygon points="717.20,153.28 730.79,154.00 730.79,181.32 717.20,180.60" fill="#71313d"/>
 <polygon points="730.79,154.00 738.79,147.00 738.79,174.32 730.79,181.32" fill="#a03c4c"/>
-<polygon points="725.20,146.28 738.79,147.00 730.79,154.00 717.20,153.28" fill="#ff7b75"/>
-<g class="glint" style="animation-delay:3.17s"><polygon points="725.20,146.28 738.79,147.00 730.79,154.00 717.20,153.28" fill="#ffcec3"/></g>
+<polygon points="725.20,146.28 738.79,147.00 730.79,154.00 717.20,153.28" fill="#ff4257"/>
+<g class="glint" style="animation-delay:3.17s"><polygon points="725.20,146.28 738.79,147.00 730.79,154.00 717.20,153.28" fill="#ffe4e8"/></g>
 </g>
 <g><title>2026-09-14: 0</title>
 <polygon points="732.30,179.40 745.89,180.12 745.89,182.12 732.30,181.40" fill="#1c1b20"/>
@@ -495,14 +495,14 @@
 <g><title>2026-09-21: 126</title>
 <polygon points="747.40,113.20 760.99,113.92 760.99,182.92 747.40,182.20" fill="#71313d"/>
 <polygon points="760.99,113.92 768.99,106.92 768.99,175.92 760.99,182.92" fill="#a03c4c"/>
-<polygon points="755.40,106.20 768.99,106.92 760.99,113.92 747.40,113.20" fill="#ff7b75"/>
-<g class="glint" style="animation-delay:3.32s"><polygon points="755.40,106.20 768.99,106.92 760.99,113.92 747.40,113.20" fill="#ffcec3"/></g>
+<polygon points="755.40,106.20 768.99,106.92 760.99,113.92 747.40,113.20" fill="#ff4257"/>
+<g class="glint" style="animation-delay:3.32s"><polygon points="755.40,106.20 768.99,106.92 760.99,113.92 747.40,113.20" fill="#ffe4e8"/></g>
 </g>
 <g><title>2026-09-28: 16</title>
 <polygon points="762.50,157.12 776.09,157.84 776.09,183.72 762.50,183.00" fill="#71313d"/>
 <polygon points="776.09,157.84 784.09,150.84 784.09,176.72 776.09,183.72" fill="#a03c4c"/>
-<polygon points="770.50,150.12 784.09,150.84 776.09,157.84 762.50,157.12" fill="#ff7b75"/>
-<g class="glint" style="animation-delay:3.40s"><polygon points="770.50,150.12 784.09,150.84 776.09,157.84 762.50,157.12" fill="#ffcec3"/></g>
+<polygon points="770.50,150.12 784.09,150.84 776.09,157.84 762.50,157.12" fill="#ff4257"/>
+<g class="glint" style="animation-delay:3.40s"><polygon points="770.50,150.12 784.09,150.84 776.09,157.84 762.50,157.12" fill="#ffe4e8"/></g>
 </g>
 <g><title>2026-10-05: 0</title>
 <polygon points="777.60,181.80 791.19,182.52 791.19,184.52 777.60,183.80" fill="#1c1b20"/>
@@ -763,7 +763,7 @@
 <polygon points="738.40,177.86 751.99,178.58 751.99,190.92 738.40,190.20" fill="#71313d"/>
 <polygon points="751.99,178.58 759.99,171.58 759.99,183.92 751.99,190.92" fill="#a03c4c"/>
 <polygon points="746.40,170.86 759.99,171.58 751.99,178.58 738.40,177.86" fill="#703142"/>
-<g class="glint" style="animation-delay:3.32s"><polygon points="746.40,170.86 759.99,171.58 751.99,178.58 738.40,177.86" fill="#ffcec3"/></g>
+<g class="glint" style="animation-delay:3.32s"><polygon points="746.40,170.86 759.99,171.58 751.99,178.58 738.40,177.86" fill="#ffe4e8"/></g>
 </g>
 <g><title>2026-09-29: 0</title>
 <polygon points="753.50,189.00 767.09,189.72 767.09,191.72 753.50,191.00" fill="#1c1b20"/>
@@ -1069,7 +1069,7 @@
 <polygon points="850.20,196.63 863.79,197.35 863.79,205.32 850.20,204.60" fill="#71313d"/>
 <polygon points="863.79,197.35 871.79,190.35 871.79,198.32 863.79,205.32" fill="#a03c4c"/>
 <polygon points="858.20,189.63 871.79,190.35 863.79,197.35 850.20,196.63" fill="#703142"/>
-<g class="glint" style="animation-delay:3.92s"><polygon points="858.20,189.63 871.79,190.35 863.79,197.35 850.20,196.63" fill="#ffcec3"/></g>
+<g class="glint" style="animation-delay:3.92s"><polygon points="858.20,189.63 871.79,190.35 863.79,197.35 850.20,196.63" fill="#ffe4e8"/></g>
 </g>
 <g><title>2025-11-20: 0</title>
 <polygon points="56.00,169.00 69.59,169.72 69.59,171.72 56.00,171.00" fill="#1c1b20"/>
@@ -1565,7 +1565,7 @@
 <polygon points="741.60,207.83 755.19,208.55 755.19,216.52 741.60,215.80" fill="#71313d"/>
 <polygon points="755.19,208.55 763.19,201.55 763.19,209.52 755.19,216.52" fill="#a03c4c"/>
 <polygon points="749.60,200.83 763.19,201.55 755.19,208.55 741.60,207.83" fill="#703142"/>
-<g class="glint" style="animation-delay:3.47s"><polygon points="749.60,200.83 763.19,201.55 755.19,208.55 741.60,207.83" fill="#ffcec3"/></g>
+<g class="glint" style="animation-delay:3.47s"><polygon points="749.60,200.83 763.19,201.55 755.19,208.55 741.60,207.83" fill="#ffe4e8"/></g>
 </g>
 <g><title>2026-10-16: 0</title>
 <polygon points="756.70,214.60 770.29,215.32 770.29,217.32 756.70,216.60" fill="#1c1b20"/>
@@ -1815,8 +1815,8 @@
 <g><title>2026-09-26: 40</title>
 <polygon points="702.40,182.45 715.99,183.17 715.99,222.92 702.40,222.20" fill="#71313d"/>
 <polygon points="715.99,183.17 723.99,176.17 723.99,215.92 715.99,222.92" fill="#a03c4c"/>
-<polygon points="710.40,175.45 723.99,176.17 715.99,183.17 702.40,182.45" fill="#ff7b75"/>
-<g class="glint" style="animation-delay:3.32s"><polygon points="710.40,175.45 723.99,176.17 715.99,183.17 702.40,182.45" fill="#ffcec3"/></g>
+<polygon points="710.40,175.45 723.99,176.17 715.99,183.17 702.40,182.45" fill="#ff4257"/>
+<g class="glint" style="animation-delay:3.32s"><polygon points="710.40,175.45 723.99,176.17 715.99,183.17 702.40,182.45" fill="#ffe4e8"/></g>
 </g>
 <g><title>2026-10-03: 0</title>
 <polygon points="717.50,221.00 731.09,221.72 731.09,223.72 717.50,223.00" fill="#1c1b20"/>
@@ -1827,7 +1827,7 @@
 <polygon points="732.60,213.36 746.19,214.08 746.19,224.52 732.60,223.80" fill="#71313d"/>
 <polygon points="746.19,214.08 754.19,207.08 754.19,217.52 746.19,224.52" fill="#a03c4c"/>
 <polygon points="740.60,206.36 754.19,207.08 746.19,214.08 732.60,213.36" fill="#703142"/>
-<g class="glint" style="animation-delay:3.47s"><polygon points="740.60,206.36 754.19,207.08 746.19,214.08 732.60,213.36" fill="#ffcec3"/></g>
+<g class="glint" style="animation-delay:3.47s"><polygon points="740.60,206.36 754.19,207.08 746.19,214.08 732.60,213.36" fill="#ffe4e8"/></g>
 </g>
 <g><title>2026-10-17: 0</title>
 <polygon points="747.70,222.60 761.29,223.32 761.29,225.32 747.70,224.60" fill="#1c1b20"/>
@@ -1854,17 +1854,17 @@
 <polygon points="821.69,226.52 829.69,219.52 829.69,221.52 821.69,228.52" fill="#26232a"/>
 <polygon points="816.10,218.80 829.69,219.52 821.69,226.52 808.10,225.80" fill="#28252b"/>
 </g>
-<text x="92" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#b9b0b6">Dec</text>
-<text x="153" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#b9b0b6">Jan</text>
-<text x="213" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#b9b0b6">Feb</text>
-<text x="274" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#b9b0b6">Mar</text>
-<text x="349" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#b9b0b6">Apr</text>
-<text x="409" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#b9b0b6">May</text>
-<text x="485" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#b9b0b6">Jun</text>
-<text x="545" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#b9b0b6">Jul</text>
-<text x="606" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#b9b0b6">Aug</text>
-<text x="681" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#b9b0b6">Sep</text>
-<text x="742" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#b9b0b6">Oct</text>
-<text x="802" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#b9b0b6">Nov</text>
-<text x="34" y="283" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#c6bfc3">Taller blocks mark days with more contributions.</text>
+<text x="92" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#e3e3e3">Dec</text>
+<text x="153" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#e3e3e3">Jan</text>
+<text x="213" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#e3e3e3">Feb</text>
+<text x="274" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#e3e3e3">Mar</text>
+<text x="349" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#e3e3e3">Apr</text>
+<text x="409" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#e3e3e3">May</text>
+<text x="485" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#e3e3e3">Jun</text>
+<text x="545" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#e3e3e3">Jul</text>
+<text x="606" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#e3e3e3">Aug</text>
+<text x="681" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#e3e3e3">Sep</text>
+<text x="742" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#e3e3e3">Oct</text>
+<text x="802" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#e3e3e3">Nov</text>
+<text x="34" y="283" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#eeeeee">Taller blocks mark days with more contributions.</text>
 </svg>

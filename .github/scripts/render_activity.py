@@ -7,7 +7,7 @@ from pathlib import Path
 from xml.sax.saxutils import escape
 
 LEVELS = ["NONE", "FIRST_QUARTILE", "SECOND_QUARTILE", "THIRD_QUARTILE", "FOURTH_QUARTILE"]
-DOTS = ["#28252b", "#703142", "#a73d51", "#e6505e", "#ff7b75"]
+DOTS = ["#28252b", "#703142", "#a73d51", "#e6505e", "#ff4257"]
 MONO = "ui-monospace, SFMono-Regular, Consolas, monospace"
 
 
@@ -38,7 +38,7 @@ def document(title, desc, height, elements):
     return "\n".join([
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 {height}" role="img" aria-labelledby="title desc">',
         f'<title id="title">{escape(title)}</title><desc id="desc">{escape(desc)}</desc>',
-        f'<rect width="1000" height="{height}" rx="16" fill="#111014"/>',
+        f'<rect width="1000" height="{height}" rx="16" fill="#000000"/>',
         *elements, '</svg>', ''
     ])
 
@@ -75,10 +75,10 @@ def snake_calendar(days, tiles):
     parts = [
         '<defs><clipPath id="field"><rect x="55" y="69" width="920" height="123"/></clipPath></defs>',
         '<style>@media (prefers-reduced-motion:reduce){.motion,.eaten{display:none}}</style>',
-        label(34, 35, 'CONTRIBUTION SNAKE', 16, '#f1e9e9'),
-        label(966, 35, f'{sum(n for _, n, _ in days):,} contributions', 14, '#ff8581', 'end'),
-        *(label(x(w), 61, name, 11, '#b9b0b6') for w, name in month_marks(tiles)),
-        *(label(33, y(r) + 4, s, 10, '#b9b0b6') for r, s in [(1,'M'), (3,'W'), (5,'F')])
+        label(34, 35, 'CONTRIBUTION SNAKE', 16, '#ffffff'),
+        label(966, 35, f'{sum(n for _, n, _ in days):,} contributions', 14, '#ff435a', 'end'),
+        *(label(x(w), 61, name, 11, '#e3e3e3') for w, name in month_marks(tiles)),
+        *(label(33, y(r) + 4, s, 10, '#e3e3e3') for r, s in [(1,'M'), (3,'W'), (5,'F')])
     ]
     for pos, (day, count, level) in tiles.items():
         wx, wy = pos
@@ -90,14 +90,14 @@ def snake_calendar(days, tiles):
                          f'<animate attributeName="opacity" calcMode="discrete" dur="25s" repeatCount="indefinite" '
                          f'values="0;0.9;0" keyTimes="0;{at:.6f};1"/></rect>')
     parts.append('<g class="motion" clip-path="url(#field)">')
-    for lag, color in [(3,'#9c3346'),(2,'#d84553'),(1,'#ff625e'),(0,'#ffe5d5')]:
+    for lag, color in [(3,'#9c3346'),(2,'#d84553'),(1,'#ff625e'),(0,'#ffffff')]:
         frames = [path[max(i - lag, 0)] for i in range(len(path))]
         coords = ';'.join(f'{x(w):.2f} {y(r):.2f}' for w, r in frames)
         parts.append(f'<g><animateTransform attributeName="transform" type="translate" values="{coords}" '
                      f'dur="25s" repeatCount="indefinite" calcMode="linear"/>'
                      f'<rect x="-6" y="-6" width="12" height="12" rx="4" fill="{color}"/></g>')
-    parts.extend(['</g>', label(34, 219, days[0][0].isoformat(), 12, '#b9b0b6'),
-                  label(966, 219, days[-1][0].isoformat(), 12, '#b9b0b6', 'end')])
+    parts.extend(['</g>', label(34, 219, days[0][0].isoformat(), 12, '#e3e3e3'),
+                  label(966, 219, days[-1][0].isoformat(), 12, '#e3e3e3', 'end')])
     return document("Contribution snake", "The snake collects squares for days with contributions.", 240, parts)
 
 
@@ -108,8 +108,8 @@ def skyline(days, tiles):
     parts = ['<style>@keyframes light{0%,100%{opacity:0}45%{opacity:.55}}'
              '.glint{opacity:0;animation:light 6s ease-in-out infinite}'
              '@media(prefers-reduced-motion:reduce){.glint{animation:none}}</style>',
-             label(34, 35, 'CONTRIBUTION SKYLINE', 16, '#f1e9e9'),
-             label(966, 35, f'Peak day  /  {peak} contributions', 14, '#ff8581', 'end')]
+             label(34, 35, 'CONTRIBUTION SKYLINE', 16, '#ffffff'),
+             label(966, 35, f'Peak day  /  {peak} contributions', 14, '#ff435a', 'end')]
     for (w, r), (day, count, level) in sorted(tiles.items(), key=lambda v: (v[0][1], v[0][0])):
         px, py = 100 + w * step - r * 9, 132 + w * 0.8 + r * 8
         h = 2 + (67 * math.sqrt(count / peak) if peak else 0)
@@ -127,10 +127,10 @@ def skyline(days, tiles):
         if count:
             delay = w / columns * 4
             parts.append(f'<g class="glint" style="animation-delay:{delay:.2f}s">'
-                         + face([a, b, c, d], '#ffcec3') + '</g>')
+                         + face([a, b, c, d], '#ffe4e8') + '</g>')
         parts.append('</g>')
-    parts.extend(label(round(47 + w * step), 254, name, 11, '#b9b0b6') for w, name in month_marks(tiles))
-    parts.append(label(34, 283, 'Taller blocks mark days with more contributions.', 13, '#c6bfc3'))
+    parts.extend(label(round(47 + w * step), 254, name, 11, '#e3e3e3') for w, name in month_marks(tiles))
+    parts.append(label(34, 283, 'Taller blocks mark days with more contributions.', 13, '#eeeeee'))
     return document('3D contribution graph', 'One block per day. Weeks run left to right.', 305, parts)
 
 
