@@ -1,8 +1,9 @@
 # Shaik Arfan
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/afx-still.png">
-  <img src="./assets/afx-glitch.gif" width="100%" alt="AFX opening animation with flame borders and three glitching taglines: ARFAN — ENCRYPTION IS NOT A CRIME, CODE. BUILD. EVOLVE., and Build. Break. Learn. Rebuild.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/afx-scarlet-hero-still.png">
+  <source type="image/webp" srcset="./assets/afx-scarlet-hero.webp">
+  <img src="./assets/afx-scarlet-hero.gif" width="100%" alt="A black banner with Arfan’s red-eyed character. His hair sways as white and red text glitches through ARFAN — ENCRYPTION IS NOT A CRIME, CODE. BUILD. EVOLVE., and Build. Break. Learn. Rebuild.">
 </picture>
 
 I build developer tools for inspecting APIs, testing regular expressions, and tracking down problems in logs. Under **AFX**, I also work on Windows utilities and experiment with LLMs, retrieval-augmented generation, and AI-powered interfaces.
@@ -76,6 +77,6 @@ I build developer tools for inspecting APIs, testing regular expressions, and tr
 [Browse all my repositories →](https://github.com/arfanshaik?tab=repositories)
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/afx-finale-still.png">
-  <img src="./assets/afx-finale.gif" width="100%" alt="Closing AFX monogram traced in red, with drifting embers, animated waveforms and flame borders. Build. Break. Learn. Rebuild.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/afx-scarlet-finale-still.png">
+  <img src="./assets/afx-scarlet-finale.gif" width="100%" alt="The red AFX monogram glints over a black grid. Flame borders and waveforms move around the white and red tagline Build. Break. Learn. Rebuild.">
 </picture>
