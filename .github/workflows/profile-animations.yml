@@ -1,0 +1,52 @@
+name: Generate profile animations
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/render_activity.py'
+      - '.github/workflows/profile-animations.yml'
+  schedule:
+    - cron: '17 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: afx-profile-animations
+  cancel-in-progress: false
+
+jobs:
+  update-artwork:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          ref: main
+      - name: Fetch GitHub contribution calendar
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api graphql -f login="$GITHUB_REPOSITORY_OWNER" -f query='
+            query($login: String!) {
+              user(login: $login) {
+                contributionsCollection {
+                  contributionCalendar {
+                    weeks { contributionDays { date contributionCount contributionLevel } }
+                  }
+                }
+              }
+            }' > "$RUNNER_TEMP/calendar.json"
+      - name: Render activity graphics
+        run: python3 .github/scripts/render_activity.py "$RUNNER_TEMP/calendar.json" assets
+      - name: Publish changed graphics
+        run: |
+          git add -- assets/snake.svg assets/skyline.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh AFX contribution graphics"
+          git pull --rebase origin main
+          git push origin HEAD:main

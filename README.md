@@ -1,67 +1,14 @@
-<div align="center">
+<p align="center"><img src="./assets/afx-header.svg" width="100%" alt="Shaik Arfan · AFX · AI development, frontend and UI/UX design" /></p>
 
-# ⚡ SHAIK ARFAN
+I build developer tools for inspecting APIs, testing regular expressions, and tracking down problems in logs. Under **AFX**, I also work on Windows utilities and experiment with LLMs, retrieval-augmented generation, and AI-powered interfaces.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2200&pause=700&color=FF3131&center=true&vCenter=true&width=850&lines=ARFAN+%E2%80%94+ENCRYPTION+IS+NOT+A+CRIME;AI+DEVELOPER+%7C+FRONTEND+DEVELOPER;UI%2FUX+DESIGNER+%7C+AFX+BUILDER;CODE.+BUILD.+EVOLVE." alt="Animated typing banner" />
+## Contribution activity
 
-<br/>
+![Animated snake collecting squares from my GitHub contribution calendar](./assets/snake.svg)
 
-<img src="https://komarev.com/ghpvc/?username=arfanshaik&label=PROFILE+VIEWS&color=ff3131&style=for-the-badge" alt="Profile views" />
+![Isometric calendar showing the number of contributions per day](./assets/skyline.svg)
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```js
-const arfan = {
-  name: "Shaik Arfan",
-  brand: "AFX",
-  roles: [
-    "AI Developer",
-    "Frontend Developer",
-    "UI/UX Designer"
-  ],
-  interests: [
-    "Artificial Intelligence",
-    "Developer Tools",
-    "LLMs & RAG",
-    "Automation",
-    "Web Development",
-    "Cybersecurity"
-  ],
-  currentMission: "Build useful products that solve real-world problems.",
-  motto: "CODE. BUILD. EVOLVE."
-};
-```
-
-I enjoy building **AI-powered products, developer utilities, frontend experiences, and productivity tools**.
-
-> **I don't just learn technology — I build with it.**
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,cpp,git,github,figma,vscode&perline=11" alt="Tech stack" />
-
-</div>
-
-### AI & Development
-
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-111111?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-FF3131?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-111111?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF3131?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-111111?style=for-the-badge)
-![UI UX](https://img.shields.io/badge/UI%2FUX-FF3131?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🚀 Featured AFX Projects
+## Featured AFX projects
 
 | Project | What it does | Tech |
 |---|---|---|
@@ -72,9 +19,16 @@ I enjoy building **AI-powered products, developer utilities, frontend experience
 | [**AFX Driver Checker**](https://github.com/arfanshaik/AFX-Driver-Checker) | Driver-checking utility for Windows systems | System Tools |
 | [**AFX Gaming Mode**](https://github.com/arfanshaik/AFX-Gaming-Mode) | Gaming-focused PC performance utility | System Tools |
 
----
+## Tools I use
 
-## 📊 GitHub Analytics
+**Languages** · Python, JavaScript, TypeScript, C++, HTML, CSS
+
+**Frontend and design** · React, Figma
+
+**Development** · Git, GitHub, VS Code
+
+<details>
+<summary>GitHub stats, streak, and trophies</summary>
 
 <div align="center">
 
@@ -90,9 +44,7 @@ I enjoy building **AI-powered products, developer utilities, frontend experience
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
+### Trophies
 
 <div align="center">
 
@@ -100,9 +52,7 @@ I enjoy building **AI-powered products, developer utilities, frontend experience
 
 </div>
 
----
-
-## 📈 Contribution Activity
+### Contribution trend
 
 <div align="center">
 
@@ -110,45 +60,8 @@ I enjoy building **AI-powered products, developer utilities, frontend experience
 
 </div>
 
----
+<img src="https://komarev.com/ghpvc/?username=arfanshaik&label=PROFILE+VIEWS&color=ff3131&style=for-the-badge" alt="Profile views" />
 
-## 🎯 Currently Building
+</details>
 
-```text
-⚡ AFX Developer Tools
-🤖 AI-powered web applications
-🧠 LLM + RAG experiments
-🎨 Modern UI/UX experiences
-🛠️ Productivity and system utilities
-```
-
----
-
-## 🧠 Developer Philosophy
-
-<div align="center">
-
-### `ARFAN — ENCRYPTION IS NOT A CRIME`
-
-**Build. Break. Learn. Rebuild.**
-
-**CODE. BUILD. EVOLVE.**
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ AFX
-
-**AI × DEVELOPMENT × DESIGN**
-
-<br/>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-</div>
+[Browse all my repositories →](https://github.com/arfanshaik?tab=repositories)
