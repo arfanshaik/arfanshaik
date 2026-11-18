@@ -1,3 +1,24 @@
+<table role="presentation">
+<tr><td colspan="3">
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/top-still.png"><img src="./assets/flames/top.webp" width="100%" alt=""></picture>
+</td></tr>
+<tr>
+<td height="1" valign="top">
+<table height="100%"><tr><td nowrap valign="top">
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="16" height="700" align="top" alt=""></picture><br><sub>&emsp;&emsp;&emsp;</sub>
+</td></tr></table>
+</td>
+<td valign="top">
+
 # Shaik Arfan
 
 <picture>
@@ -10,20 +31,24 @@ I build developer tools for inspecting APIs, testing regular expressions, and tr
 
 ## Contribution activity
 
-![Animated snake collecting squares from my GitHub contribution calendar](./assets/snake.svg)
+<img src="./assets/snake.svg" width="100%" alt="Animated snake collecting squares from my GitHub contribution calendar">
 
-![Isometric calendar showing the number of contributions per day](./assets/skyline.svg)
+<img src="./assets/skyline.svg" width="100%" alt="Isometric calendar showing the number of contributions per day">
 
 ## Featured AFX projects
 
-| Project | What it does | Tech |
-|---|---|---|
-| [**AFX Regex Tester**](https://github.com/arfanshaik/AFX-Regex-Tester) | Live regex playground with matches, groups, replacements, presets and history | JavaScript |
-| [**AFX API Inspector**](https://github.com/arfanshaik/AFX-API-Inspector) | Developer-focused API inspection and testing utility | TypeScript |
-| [**AFX LogWatch**](https://github.com/arfanshaik/AFX-LogWatch) | Lightweight log monitoring utility | Go |
-| [**AFX PC Optimizer**](https://github.com/arfanshaik/AFX-PC-Optimizer) | PC optimization and system utility project | System Tools |
-| [**AFX Driver Checker**](https://github.com/arfanshaik/AFX-Driver-Checker) | Driver-checking utility for Windows systems | System Tools |
-| [**AFX Gaming Mode**](https://github.com/arfanshaik/AFX-Gaming-Mode) | Gaming-focused PC performance utility | System Tools |
+- [**AFX Regex Tester**](https://github.com/arfanshaik/AFX-Regex-Tester) · JavaScript  
+  Live regex playground with matches, groups, replacements, presets and history
+- [**AFX API Inspector**](https://github.com/arfanshaik/AFX-API-Inspector) · TypeScript  
+  Developer-focused API inspection and testing utility
+- [**AFX LogWatch**](https://github.com/arfanshaik/AFX-LogWatch) · Go  
+  Lightweight log monitoring utility
+- [**AFX PC Optimizer**](https://github.com/arfanshaik/AFX-PC-Optimizer) · System Tools  
+  PC optimization and system utility project
+- [**AFX Driver Checker**](https://github.com/arfanshaik/AFX-Driver-Checker) · System Tools  
+  Driver-checking utility for Windows systems
+- [**AFX Gaming Mode**](https://github.com/arfanshaik/AFX-Gaming-Mode) · System Tools  
+  Gaming-focused PC performance utility
 
 ## Tools I use
 
@@ -80,3 +105,24 @@ I build developer tools for inspecting APIs, testing regular expressions, and tr
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/afx-scarlet-finale-still.png">
   <img src="./assets/afx-scarlet-finale.gif" width="100%" alt="The red AFX monogram glints over a black grid. Flame borders and waveforms move around the white and red tagline Build. Break. Learn. Rebuild.">
 </picture>
+
+</td>
+<td height="1" valign="top">
+<table height="100%"><tr><td nowrap valign="top">
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="16" height="700" align="top" alt=""></picture><br><sub>&emsp;&emsp;&emsp;</sub>
+</td></tr></table>
+</td>
+</tr>
+<tr><td colspan="3">
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/bottom-still.png"><img src="./assets/flames/bottom.webp" width="100%" alt=""></picture>
+</td></tr>
+</table>
