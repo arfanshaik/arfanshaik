@@ -1,128 +1,74 @@
-<table role="presentation">
-<tr><td colspan="3">
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/top-still.png"><img src="./assets/flames/top.webp" width="100%" alt=""></picture>
-</td></tr>
-<tr>
-<td height="1" valign="top">
-<table height="100%"><tr><td nowrap valign="top">
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/left-still.png"><img src="./assets/flames/left.webp" width="14" height="700" align="top" alt=""></picture><br><sub>&emsp;</sub>
-</td></tr></table>
-</td>
-<td valign="top">
-
 # Shaik Arfan
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/afx-scarlet-hero-still.png">
-  <source type="image/webp" srcset="./assets/afx-scarlet-hero.webp">
-  <img src="./assets/afx-scarlet-hero.gif" width="100%" alt="A black banner with Arfan’s red-eyed character. His hair sways as white and red text glitches through ARFAN — ENCRYPTION IS NOT A CRIME, CODE. BUILD. EVOLVE., and Build. Break. Learn. Rebuild.">
-</picture>
+I’m a B.Tech student in Visakhapatnam, India. Under the name **AFX**, I build AI interfaces, developer tools and Windows utilities. I’m open to internships and collaborations.
 
-I build developer tools for inspecting APIs, testing regular expressions, and tracking down problems in logs. Under **AFX**, I also work on Windows utilities and experiment with LLMs, retrieval-augmented generation, and AI-powered interfaces.
+[Visit my portfolio](https://shaikarfandev.netlify.app/) · [Browse my repositories](https://github.com/arfanshaik?tab=repositories)
 
-## Contribution activity
+<a href="https://shaikarfandev.netlify.app/">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/arfanshaik/arfanshaik/main/assets/afx-scarlet-hero-still.png">
+    <source type="image/webp" srcset="https://raw.githubusercontent.com/arfanshaik/arfanshaik/main/assets/afx-scarlet-hero.webp">
+    <img src="./assets/afx-scarlet-hero.gif" width="100%" alt="Visit Shaik Arfan’s portfolio. The AFX banner pairs a red-eyed character with animated red and white lettering.">
+  </picture>
+</a>
 
-<img src="./assets/snake.svg" width="100%" alt="Animated snake collecting squares from my GitHub contribution calendar">
+## Skills and languages
 
-<img src="./assets/skyline.svg" width="100%" alt="Isometric calendar showing the number of contributions per day">
+- **Programming languages** · Python, JavaScript, TypeScript, Go and C++
+- **Web development** · HTML, CSS, React, Vite, Node.js and FastAPI
+- **Design and workflow** · Figma for wireframes and prototypes, Git for version control and GitHub Actions for automated tests
 
-## Featured AFX projects
+I’m learning how retrieval-augmented generation (RAG) can ground an AI assistant’s replies in the documents it retrieves.
 
-- [**AFX Regex Tester**](https://github.com/arfanshaik/AFX-Regex-Tester) · JavaScript  
-  Live regex playground with matches, groups, replacements, presets and history
-- [**AFX API Inspector**](https://github.com/arfanshaik/AFX-API-Inspector) · TypeScript  
-  Developer-focused API inspection and testing utility
-- [**AFX LogWatch**](https://github.com/arfanshaik/AFX-LogWatch) · Go  
-  Lightweight log monitoring utility
-- [**AFX PC Optimizer**](https://github.com/arfanshaik/AFX-PC-Optimizer) · System Tools  
-  PC optimization and system utility project
-- [**AFX Driver Checker**](https://github.com/arfanshaik/AFX-Driver-Checker) · System Tools  
-  Driver-checking utility for Windows systems
-- [**AFX Gaming Mode**](https://github.com/arfanshaik/AFX-Gaming-Mode) · System Tools  
-  Gaming-focused PC performance utility
+## Selected work
 
-## Tools I use
+### [XANIX](https://github.com/arfanshaik/AFX-AI-LLM)
 
-**Languages** · Python, JavaScript, TypeScript, C++, HTML, CSS
+I connected a React and TypeScript chat interface to a Python backend built with FastAPI. You can attach a document, stream a reply from your model provider and return to the saved conversation.
 
-**Frontend and design** · React, Figma
+<a href="https://github.com/arfanshaik/AFX-AI-LLM">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/arfanshaik/arfanshaik/main/assets/projects/xanix-mobile.webp">
+    <img src="./assets/projects/xanix.webp" width="100%" alt="XANIX chat workspace with a message composer and shortcuts for analyzing files and writing code.">
+  </picture>
+</a>
 
-**Development** · Git, GitHub, VS Code
+### [AFX API Inspector](https://github.com/arfanshaik/AFX-API-Inspector)
+
+I built a TypeScript command-line tool for inspecting HTTP responses. It shows the status, headers and body, measures response times and can rerun a saved collection of requests. Here it is reading a local health endpoint.
+
+<a href="https://github.com/arfanshaik/AFX-API-Inspector">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/arfanshaik/arfanshaik/main/assets/projects/api-inspector-mobile.webp">
+    <img src="./assets/projects/api-inspector.webp" width="100%" alt="API Inspector output from a local health check, showing 200 OK, the response time and a JSON body with status set to ok.">
+  </picture>
+</a>
+
+### [AFX Portfolio](https://github.com/arfanshaik/AFX-portfolio-)
+
+I designed and built my portfolio in Next.js. The opening portrait reveals a samurai with a pointer, tap or keyboard input, and each project has its own case study.
+
+<a href="https://shaikarfandev.netlify.app/"><img src="./assets/projects/portfolio.webp" width="100%" alt="Open Shaik Arfan’s portfolio. The opening screen pairs his name with the samurai portrait reveal."></a>
+
+### More projects
+
+- [AFX PC Intelligence](https://github.com/arfanshaik/AFX-PC-Intelligence) · For a college hackathon, I built a PC planner that suggests parts for a budget in rupees and checks their compatibility.
+- [AFX Regex Tester](https://github.com/arfanshaik/AFX-Regex-Tester) · A browser playground for highlighting matches, inspecting capture groups and previewing replacements as you type.
+- [AFX LogWatch](https://github.com/arfanshaik/AFX-LogWatch) · A Go tool for following log files, filtering events by severity and exporting matches as JSON Lines.
+- **Windows utilities** · [PC Optimizer](https://github.com/arfanshaik/AFX-PC-Optimizer), [Driver Checker](https://github.com/arfanshaik/AFX-Driver-Checker) and [Gaming Mode](https://github.com/arfanshaik/AFX-Gaming-Mode)
 
 <details>
-<summary>GitHub stats, streak, and trophies</summary>
+<summary>GitHub contribution activity</summary>
 
-<div align="center">
+<img src="./assets/snake.svg" width="100%" alt="An animated snake moving through my GitHub contribution calendar.">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arfanshaik&show_icons=true&theme=radical&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=FF263D&icon_color=FF263D&ring_color=FF263D" alt="GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfanshaik&layout=compact&theme=radical&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=FF263D" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=arfanshaik&theme=dark&hide_border=true&background=000000&ring=FF263D&fire=FF263D&currStreakLabel=FF435A&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=EEEEEE" alt="GitHub streak" />
-
-</div>
-
-### Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arfanshaik&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-
-</div>
-
-### Contribution trend
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arfanshaik&bg_color=000000&color=ffffff&line=ff263d&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
-
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=arfanshaik&label=PROFILE+VIEWS&color=ff3131&style=for-the-badge" alt="Profile views" />
+<img src="./assets/skyline.svg" width="100%" alt="An isometric view of my daily GitHub contributions.">
 
 </details>
 
-> **ARFAN — ENCRYPTION IS NOT A CRIME**  
-> `CODE. BUILD. EVOLVE.`  
-> *Build. Break. Learn. Rebuild.*
-
-[Browse all my repositories →](https://github.com/arfanshaik?tab=repositories)
-
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/afx-scarlet-finale-still.png">
-  <img src="./assets/afx-scarlet-finale.gif" width="100%" alt="The red AFX monogram glints over a black grid. Flame borders and waveforms move around the white and red tagline Build. Break. Learn. Rebuild.">
-</picture>
-
-</td>
-<td height="1" valign="top">
-<table height="100%"><tr><td nowrap valign="top">
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br>
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/right-still.png"><img src="./assets/flames/right.webp" width="14" height="700" align="top" alt=""></picture><br><sub>&emsp;</sub>
-</td></tr></table>
-</td>
-</tr>
-<tr><td colspan="3">
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/flames/bottom-still.png"><img src="./assets/flames/bottom.webp" width="100%" alt=""></picture>
-</td></tr>
-</table>
+<a href="https://shaikarfandev.netlify.app/">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/arfanshaik/arfanshaik/main/assets/afx-scarlet-finale-still.png">
+    <img src="./assets/afx-scarlet-finale.gif" width="100%" alt="Visit my portfolio. The AFX monogram animates above the words Build. Break. Learn. Rebuild.">
+  </picture>
+</a>
