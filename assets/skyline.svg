@@ -1864,6 +1864,12 @@
 <polygon points="821.69,226.52 829.69,219.52 829.69,221.52 821.69,228.52" fill="#26232a"/>
 <polygon points="816.10,218.80 829.69,219.52 821.69,226.52 808.10,225.80" fill="#28252b"/>
 </g>
+<g><title>2026-11-21: 1</title>
+<polygon points="823.20,220.63 836.79,221.35 836.79,229.32 823.20,228.60" fill="#71313d"/>
+<polygon points="836.79,221.35 844.79,214.35 844.79,222.32 836.79,229.32" fill="#a03c4c"/>
+<polygon points="831.20,213.63 844.79,214.35 836.79,221.35 823.20,220.63" fill="#703142"/>
+<g class="glint" style="animation-delay:3.92s"><polygon points="831.20,213.63 844.79,214.35 836.79,221.35 823.20,220.63" fill="#ffe4e8"/></g>
+</g>
 <text x="92" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#e3e3e3">Dec</text>
 <text x="153" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#e3e3e3">Jan</text>
 <text x="213" y="254" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#e3e3e3">Feb</text>
