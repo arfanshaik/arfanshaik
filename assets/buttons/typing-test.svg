@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="30" viewBox="0 0 118 30" role="img" aria-label="Typing test">
+  <title>Typing test</title>
+  <rect x=".5" y=".5" width="117" height="29" rx="3" fill="#a1223a" stroke="#c13b53"/>
+  <g transform="translate(10 6)" fill="none" color="#ffffff" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0.75" y="3" width="16.5" height="12" rx="2"/>
+    <path d="M3.6 6.5h.7m2.4 0h.7m2.4 0h.7m2.4 0h.7m-10 2.9h.7m2.4 0h.7m2.4 0h.7m2.4 0h.7m-8.1 3h6"/>
+  </g>
+  <text x="35" y="19.8" fill="#ffffff" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="600">Typing test</text>
+</svg>

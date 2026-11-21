@@ -2,7 +2,13 @@
 
 I’m a B.Tech student in Visakhapatnam, India. Under the name **AFX**, I build AI interfaces, developer tools and Windows utilities. I’m open to internships and collaborations.
 
-[Visit my portfolio](https://shaikarfandev.netlify.app/) · [Browse my repositories](https://github.com/arfanshaik?tab=repositories)
+<p>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter#introduction"><img src="https://komarev.com/ghpvc/?username=arfanshaik&amp;label=Profile+views&amp;color=af253f&amp;style=for-the-badge" height="30" alt="Profile views. Learn how the counter works."></a>
+  <a href="https://monkeytype.com/"><img src="./assets/buttons/typing-test.svg" height="30" alt="Test your typing speed on Monkeytype"></a>
+  <a href="https://shaikarfandev.netlify.app/"><img src="./assets/buttons/portfolio.svg" height="30" alt="Visit my portfolio"></a>
+  <a href="https://github.com/arfanshaik?tab=repositories"><img src="./assets/buttons/projects.svg" height="30" alt="Browse my projects on GitHub"></a>
+  <a href="https://www.linkedin.com/in/arfan-shaik-99k"><img src="./assets/buttons/linkedin.svg" height="30" alt="Find me on LinkedIn"></a>
+</p>
 
 <a href="https://shaikarfandev.netlify.app/">
   <picture>
